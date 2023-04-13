@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6ef3a7aef9f8747af558a38aef2617, type: 3}
+  m_Name: SyunouPro
+  m_EditorClassIdentifier: 
+  name: "\u300C\u90E8\u5C4B\u3092\u5927\u304D\u304F\u898B\u305B\u308B\uFF01\u30D7\u30ED\u306E\u53CE\u7D0D\u300D"
+  icon: {fileID: 21300000, guid: 0f60fe780b2f16944be45e4e05ddabdd, type: 3}
+  SptitemNO: 0
